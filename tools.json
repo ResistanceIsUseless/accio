@@ -1,0 +1,173 @@
+[
+    {
+        "name": "openrisk",
+        "import_path": "github.com/projectdiscovery/openrisk@latest",
+        "language": "go",
+        "tags": ["project_discovery", "vuln_scan"]
+    },
+  {
+    "name": "tlsx",
+    "import_path": "github.com/projectdiscovery/tlsx/cmd/tlsx@latest",
+    "language": "go",
+    "tags": ["project_discovery", "recon"]
+  },
+  {
+    "name": "katana",
+    "import_path": "github.com/projectdiscovery/katana/cmd/katana@latest",
+    "language": "go",
+    "tags": ["project_discovery", "recon"]
+  },
+  {
+    "name": "nuclei",
+    "import_path": "github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest",
+    "language": "go",
+    "tags": ["project_discovery", "recon", "vuln_scan"]
+  },
+  {
+    "name": "httpx",
+    "import_path": "github.com/projectdiscovery/httpx/cmd/httpx@latest",
+    "language": "go",
+    "tags": ["project_discovery", "service_check"]
+  },
+  {
+    "name": "interactsh-client",
+    "import_path": "github.com/projectdiscovery/interactsh/cmd/interactsh-client@latest",
+    "language": "go",
+    "tags": ["project_discovery", "utility"]
+  },
+  {
+    "name": "dnsx",
+    "import_path": "github.com/projectdiscovery/dnsx/cmd/dnsx@latest",
+    "language": "go",
+    "tags": ["project_discovery", "service_check"]
+  },
+  {
+    "name": "subfinder",
+    "import_path": "github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest",
+    "language": "go",
+    "tags": ["project_discovery", "recon"]
+  },
+  {
+    "name": "chaos-client",
+    "import_path": "github.com/projectdiscovery/chaos-client/cmd/chaos@latest",
+    "language": "go",
+    "tags": ["project_discovery", "utility"]
+  },
+  {
+    "name": "notify",
+    "import_path": "github.com/projectdiscovery/notify/cmd/notify@latest",
+    "language": "go",
+    "tags": ["project_discovery", "utility"]
+  },
+  {
+    "name": "gf",
+    "import_path": "github.com/tomnomnom/gf@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "fff",
+    "import_path": "github.com/tomnomnom/fff@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "assetfinder",
+    "import_path": "github.com/tomnomnom/assetfinder@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "unfurl",
+    "import_path": "github.com/tomnomnom/unfurl@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "qsreplace",
+    "import_path": "github.com/tomnomnom/qsreplace@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "blocksort",
+    "import_path": "github.com/tomnomnom/blocksort@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "waybackurls",
+    "import_path": "github.com/tomnomnom/waybackurls@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "meg",
+    "import_path": "github.com/tomnomnom/meg@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "gron",
+    "import_path": "github.com/tomnomnom/gron@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  }, 
+  {
+    "name": "anew",
+    "import_path": "github.com/tomnomnom/anew@latest",
+    "language": "go",
+    "tags": ["tomnomnom", "utility"]
+  },
+  {
+    "name": "gau",
+    "import_path": "github.com/lc/gau@latest",
+    "language": "go",
+    "tags": ["recon"]
+  },
+  {
+    "name": "hakrawler",
+    "import_path": "github.com/hakluke/hakrawler@latest",
+    "language": "go",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "ffuf",
+    "import_path": "github.com/ffuf/ffuf@latest",
+    "language": "go",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "dorkbot",
+    "import_path": "dorkbot wapiti3",
+    "language": "pip",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "cariddi",
+    "import_path": "github.com/edoardottt/cariddi/cmd/cariddi@latest",
+    "language": "go",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "DumpsterDiver",
+    "import_path": "https://github.com/securing/DumpsterDiver",
+    "language": "python",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "dnsrecon",
+    "import_path": "https://github.com/darkoperator/dnsrecon",
+    "language": "python",
+    "tags": ["recon", "utility"]
+  },
+  {
+    "name": "theharvester",
+    "import_path": "https://github.com/laramies/theHarvester",
+    "language": "python",
+    "tags": ["recon", "utility"]
+  }
+
+]
+
+
