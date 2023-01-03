@@ -19,3 +19,13 @@ exmaple usage: Install all tools
 
 exmaple usage: Install specific tool
 >  accio --tool subfinder
+
+
+TODO:
+- Update pull down/refresh json or create external public dataset
+- Add option to use https://lobuhi.github.io/?# dataset
+- Update install for python tools to use pyenv and create simlink in /usr/local/bin/
+- Support for confg files & API Tokens
+- Support for wordlists
+- Support for containers
+- Consider creating application in go
